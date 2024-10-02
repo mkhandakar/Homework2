@@ -17,7 +17,7 @@ $num1 = $_POST['num1'];
 $operator = $_POST['operator'];
 $num2 = $_POST['num2'];
 
-// Perform the calculation with operator precedence
+// Perform the calculation with operator precedence!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 switch ($operator) {
     case '*':
         $result = $num1 * $num2;
