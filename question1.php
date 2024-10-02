@@ -13,6 +13,7 @@
     </form>
     <?php
 // Get the input values from the form
+<!----------------------------------------------->
 $num1 = $_POST['num1'];
 $operator = $_POST['operator'];
 $num2 = $_POST['num2'];
