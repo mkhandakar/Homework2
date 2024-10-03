@@ -34,7 +34,7 @@ if ($size % 2 == 0 || $size < 5) {
                 echo " ";
             }
         }
-        echo "<br>";
+        echo "\n"; 
     }
 }
 
